@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **purinidharma@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/dharmendra-purini-823974316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dharmendra-purini-823974316" height="30" width="40" /></a>
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dharmendra-purini-823974316" height="30" width="40" /></a>
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="524203" height="30" width="40" /></a>
 </p>
 
