@@ -12,7 +12,7 @@ I enjoy building web applications and learning new technologies.
 
 I completed a **Python Full Stack Development Internship at ExcelR**, where I gained hands-on experience building dynamic web applications using Django and web technologies.
 
-I am currently looking for **entry-level opportunities in Software Development / QA / Automation Testing** where I can apply my skills and grow in the IT industry.
+
 
 ---
 
